@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>A Foreign Policy Of Caution</title>
+  </head>
+  <body>
+    <header>
+      <h1>The Dish</h1>
+    </header>
+      <main>
+        <section>
+        <h1>A Foreign Policy Of Caution</h1>
+        <p><span class="the-time updated">Sep 5 2014 @/ 3:37pm</span></p>
+        </section>
+        <aside>
+          <input type="text" placeholder="Search The Dish…" value="">
+          <figure><Recent Keepers Image></figure>
+          <figure><ISIS image></figure>
+          <h5>The War On ISIS</h5>
+          <figure><Desert Image></figure>
+          <h5>The World From Off-Grid</h5>
+          <figure><ISIS Image></figure>
+          <h5>Are We Being Baited?</h5>
+          <figure><Burning Man Image></figure>
+          <h5>Back From The Desert (Andrew Returns)</h5>
+          <figure><Collage Image></figure>
+          <h5>A Second Look At The Giant Garbage Pile That /
+            Is Online Media, 2014</h5>
+          //THERE'S HONESTLY LIKE, 12 MORE OF THESE, SO I'M /
+            JUST GOING TO SKIP AHEAD.
+        </aside>
+        <article>
+          <figure><Stoic President></figure>
+          <p>Frank Rich takes on critics of Obama’s foreign policy regarding his approach to the Iraq/Syria conflict...29% of Americans say that they would approve of the US bombing Gaza and Ukraine.</p>
+        </article>
+      </main>
+    <footer>
+      <nav>
+        <ul>
+          <li>Previous</li>
+          <li>Next</li>
+        </ul>
+      </nav>
+    </footer>
+  </body
+</html>
+
